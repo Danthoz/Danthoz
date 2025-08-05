@@ -1,6 +1,3 @@
-## Hi there 
-
-<img id='gif' align="right" src="https://tenor.com/es-419/view/this-is-fine-this-is-fine-dog-meme-fire-burning-house-gif-13166008774957631306" width="240">
 <header align="left">
     <h1 align="left">Hi everyone 👋 <img src="https://tenor.com/es-419/view/this-is-fine-this-is-fine-dog-meme-fire-burning-house-gif-13166008774957631306" width="35"></h1>
     <h3 align="left">
