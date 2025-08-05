@@ -1,4 +1,4 @@
-<img id='gif' align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk1Nm8yMzNxcm95N3hqd3k0cmdnYnJyMXdkczVrMGplZGg1ZjFxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/465yxl2KmGyMoJesPX/giphy.gif" width="200">
+<img id='gif' align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk1Nm8yMzNxcm95N3hqd3k0cmdnYnJyMXdkczVrMGplZGg1ZjFxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/465yxl2KmGyMoJesPX/giphy.gif" width="300">
 <header align="left">
     <h1 align="left">Hi everyone
     <h3 align="left">
