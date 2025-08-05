@@ -1,5 +1,5 @@
 <header align="left">
-    <h1 align="left">Hi everyone 👋 <img src="https://tenor.com/es-419/view/this-is-fine-this-is-fine-dog-meme-fire-burning-house-gif-13166008774957631306" width="35"></h1>
+    <h1 align="left">Hi everyone 👋 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR5Zm83eXlhZmVxeDNoZDJtd3lvbXN3N283ZDdjcTcxNWM3dWs0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kspVl6FzbdblOMKRmM/giphy.gif" width="35"></h1>
     <h3 align="left">
         <ul>
             <li>🎓 Bachelor in Systems Engineer (Uniminuto - CO) </li>
