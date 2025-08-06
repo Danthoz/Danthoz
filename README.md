@@ -5,13 +5,14 @@
     <h1 align="left">Hi everyone, I'm Daniel Torres! 👋🏻
     <h3 align="left">
       <img id='gif' align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk1Nm8yMzNxcm95N3hqd3k0cmdnYnJyMXdkczVrMGplZGg1ZjFxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/465yxl2KmGyMoJesPX/giphy.gif" 
-  width="200">  
+  width="220">  
         <ul>
             <li>🎓 Bachelor in Systems Engineer (Uniminuto - CO) </li>
-            <li>💼 6+ years of experience as a backend developer</li>
-            <li>🏦 Primarly in the financial sector</li>
-            <li>🎮 Deeply passionate about gaming</li>
-            <li>📖 Studying a Master Degree in Game Design and Development (UNIR) </li>
+            <li>💼 6+ Years of experience as a backend developer</li>
+            <li>🏦 Primarly in the Financial Sector</li>
+            <li>🎮 Deeply passionate about Gaming</li>
+            <li>📖 Game Development Master Degree in Progress (UNIR) </li>
+            <li>🧠 Always learning new things... </li>
         </ul>
     </h3>
 </header>
