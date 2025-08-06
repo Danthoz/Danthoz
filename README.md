@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Danthoz/Danthoz/refs/heads/main/banner.jpg" height="200"/>
+  <img src="https://raw.githubusercontent.com/Danthoz/Danthoz/refs/heads/main/banner.jpg" height="300"/>
 </p>
-<img id='gif' align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk1Nm8yMzNxcm95N3hqd3k0cmdnYnJyMXdkczVrMGplZGg1ZjFxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/465yxl2KmGyMoJesPX/giphy.gif" width="300">
 <header align="left">
     <h1 align="left">Hi everyone
     <h3 align="left">
@@ -13,6 +12,7 @@
             <li>📖 Studying a Master Degree in Game Design and Development (UNIR) </li>
         </ul>
     </h3>
+      <img id='gif' align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk1Nm8yMzNxcm95N3hqd3k0cmdnYnJyMXdkczVrMGplZGg1ZjFxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/465yxl2KmGyMoJesPX/giphy.gif" width="200">
 </header>
 <hr>
 <div align="center">
