@@ -42,7 +42,7 @@
 <footer align="center">
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Danthoz&include_all_commits=true&show_icons=true&theme=radical" height="220">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danthoz&layout=compact&hide=css&theme=radical" height="270">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danthoz&layout=compact&hide=css&theme=radical" height="320">
     </p>
 </footer>
 
