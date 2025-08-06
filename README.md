@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/Danthoz/Danthoz/refs/heads/main/banner.jpg" height="350"/>
 </p>
 <header align="left">
-  <img id='gif' align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk1Nm8yMzNxcm95N3hqd3k0cmdnYnJyMXdkczVrMGplZGg1ZjFxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/465yxl2KmGyMoJesPX/giphy.gif" 
-  width="200">
     <h1 align="left">Hi everyone, I'm Daniel Torres! 👋🏻
     <h3 align="left">
+      <img id='gif' align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk1Nm8yMzNxcm95N3hqd3k0cmdnYnJyMXdkczVrMGplZGg1ZjFxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/465yxl2KmGyMoJesPX/giphy.gif" 
+  width="200">  
         <ul>
             <li>🎓 Bachelor in Systems Engineer (Uniminuto - CO) </li>
             <li>💼 6+ years of experience as a backend developer</li>
